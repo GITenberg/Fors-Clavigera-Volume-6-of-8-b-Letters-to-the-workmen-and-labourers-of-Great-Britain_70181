@@ -1,0 +1,32 @@
+_repo: Fors-Clavigera-Volume-6-of-8-b-Letters-to-the-workmen-and-labourers-of-Great-Britain_70181
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: https://en.wikipedia.org/wiki/John_Ruskin
+description: ''
+gutenberg_issued: '2023-03-01'
+identifiers:
+  gutenberg: '70181'
+language: en
+pgterms:marc904: https://archive.org/details/forsclavigeralet01ruskrich
+pgterms:marc905: 20180401021038ruskin
+pgterms:marc906: '1871'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bGeorge Allen, $c1871, pubdate 1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fors Clavigera (Volume 6 of 8) : $b Letters to the workmen and labourers of
+  Great Britain'
+url: http://www.gutenberg.org/ebooks/70181
