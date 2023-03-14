@@ -1,5 +1,8 @@
 _repo: Fors-Clavigera-Volume-6-of-8-b-Letters-to-the-workmen-and-labourers-of-Great-Britain_70181
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70181-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Ruskin, John
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: https://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70181#Fors-Clavigera-Volume-6-of-8-b-Letters-to-the-workmen-and-labourers-of-Great-Britain
 gutenberg_issued: '2023-03-01'
 identifiers:
   gutenberg: '70181'
